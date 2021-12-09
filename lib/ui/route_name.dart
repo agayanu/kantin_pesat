@@ -1,0 +1,13 @@
+const String loginViewRoute = 'LoginView';
+// const String SignUpViewRoute = 'SignUpView';
+// const String CameraViewRoute = 'CameraView';
+const String dashboardViewRoute = 'DashboardView';
+const String adminViewRoute = 'AdminView';
+const String aturAkunViewRoute = 'AturAkunView';
+const String makananViewRoute = 'MakananView';
+const String minumanViewRoute = 'MinumanView';
+const String lapakRatingViewRoute = 'LapakRatingView';
+const String promoMenuViewRoute = 'PromoMenuView';
+const String keranjangPembeliViewRoute = 'KeranjangPembeliView';
+const String profilPembeliViewRoute = 'ProfilPembeliView';
+const String riwayatPembeliViewRoute = 'RiwayatPembeliView';
